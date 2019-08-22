@@ -1933,6 +1933,9 @@ mode_mapping_sub = {
     9: 'SURFACE',
     16: 'POSHOLD',
     19: 'MANUAL',
+    20: 'MD_STABILIZE',
+    21: 'MD_ALT_HOLD',
+    22: 'MD_NET_TRACKING',
     }
 
 # map from a PX4 "main_state" to a string; see msg/commander_state.msg
